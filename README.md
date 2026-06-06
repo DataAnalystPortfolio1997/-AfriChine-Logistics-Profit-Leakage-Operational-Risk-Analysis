@@ -1,4 +1,4 @@
-**Problem: The board has identified two critical issues:Profit leakage – Shipping costs and transit times vary wildly by transport mode and route, but we don't know which combinations are secretly unprofitable.
+**Problem: The board has identified two critical issues : Profit leakage – Shipping costs and transit times vary wildly by transport mode and route, but we don't know which combinations are secretly unprofitable.
 Delivery risk – We have no reliable way to predict which shipments will be delayed. Delays cost us penalty fees and lost contracts.
 I need you to build a diagnostic framework that identifies exactly where our logistics operation is failing and quantifies the financial impact.**
 
